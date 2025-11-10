@@ -1,8 +1,10 @@
 # Forum Image Scraper
 
 Download images from paginated forum threads with parallel processing and duplicate detection.
-No support for forums that require login or forums protected by services like Cloudflare. 
 
+## Limitations
+
+- No support for forums that require login or forums protected by services like Cloudflare.
 ## Quick Start
 
 1. Install dependencies: `pip install -r requirements.txt`
