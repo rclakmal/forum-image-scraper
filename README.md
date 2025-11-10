@@ -1,6 +1,7 @@
 # Forum Image Scraper
 
 Download images from paginated forum threads with parallel processing and duplicate detection.
+No support for forums that require login or forums protected by services like Cloudflare. 
 
 ## Quick Start
 
@@ -31,4 +32,5 @@ Images are saved in a hierarchical folder structure matching the thread path:
 - Parallel downloads (10 workers) for speed
 - Resolution filtering to skip small images
 - Hash-based duplicate detection across all pages
+
 - Progress feedback and statistics
