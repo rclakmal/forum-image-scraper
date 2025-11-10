@@ -32,5 +32,4 @@ Images are saved in a hierarchical folder structure matching the thread path:
 - Parallel downloads (10 workers) for speed
 - Resolution filtering to skip small images
 - Hash-based duplicate detection across all pages
-
 - Progress feedback and statistics
